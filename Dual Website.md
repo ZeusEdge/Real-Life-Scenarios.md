@@ -1,6 +1,8 @@
+The first website is to be used across the whole world
 
+www.darey.io
 
-The second wen=bsite is a tooling app used internlly by the devops team. It must not be publicly accessible to the entire world, only specific addresses must be allowed.
+The second website is a tooling app used internlly by the devops team. It must not be publicly accessible to the entire world, only specific addresses must be allowed.
 
 www.tooling.darey.io
 
